@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cristianporco.it/app/convertitore-di-file-immagine-tra-formati-con-anteprima-live/sitemap.xml
