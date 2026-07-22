@@ -159,7 +159,7 @@ export default function App() {
             '@context': 'https://schema.org',
             '@type': 'WebApplication',
             name: 'Convertitore Immagini Online',
-            url: 'https://cristianporco.it/app/convertitore-di-file-immagine-tra-formati-con-anteprima-live/',
+            url: 'https://github.com/bonciarello/convertitore-di-file-immagine-tra-formati-con-anteprima-live/',
             description:
               'Converti immagini tra i formati PNG, JPG, WEBP, BMP e GIF direttamente nel browser con anteprima live e download istantaneo.',
             applicationCategory: 'MultimediaApplication',
